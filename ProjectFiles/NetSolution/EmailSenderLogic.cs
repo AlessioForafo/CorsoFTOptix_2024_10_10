@@ -5,6 +5,11 @@ using FTOptix.Core;
 using UAManagedCore;
 using FTOptix.NetLogic;
 using System.Collections.Generic;
+using FTOptix.OPCUAServer;
+using FTOptix.Alarm;
+using FTOptix.SQLiteStore;
+using FTOptix.Store;
+using FTOptix.EventLogger;
 #endregion
 
 public class EmailSenderLogic : BaseNetLogic

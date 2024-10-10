@@ -1,0 +1,127 @@
+Name: MyMotors
+Id: g=0232b732a11a4e0717697809d8055a56
+Type: FolderType
+Children:
+- Name: MyMotor1
+  Id: g=2f0ff4a0011464cff326e61ac47e699d
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor2
+  Id: g=0d625ae35e1307f1ddbf60c7481bb087
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor3
+  Id: g=ad02059ac1b14c225ee145151aa234cf
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor4
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor5
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor6
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor7
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor8
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor9
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor10
+  Type: MyMotor
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean

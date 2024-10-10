@@ -1,6 +1,20 @@
 Name: Model
 Type: ModelCategoryFolder
 Children:
+- File: MyMotors/MyMotors.yaml
+- Name: MyMotor
+  Id: g=ee0033df82002eb2049eabcb13d7a69c
+  Supertype: BaseObjectType
+  Children:
+  - Name: On
+    Type: BaseDataVariableType
+    DataType: Boolean
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+  - Name: InAlarm
+    Type: BaseDataVariableType
+    DataType: Boolean
 - Name: Variable1
   Id: g=560a7b2ad2ae7b835acce3d79fd12d07
   Type: BaseDataVariableType
@@ -8,8 +22,6 @@ Children:
 - Name: Variable2
   Type: BaseDataVariableType
   DataType: Boolean
-- Name: Object1
-  Type: BaseObjectType
 - Name: Variable3
   Id: g=0c1358e300ca7308396f4a13e7ce63f6
   Type: BaseDataVariableType
@@ -125,3 +137,7 @@ Children:
       - Name: Severity
         Type: PropertyType
         DataType: UInt16
+- Name: Variable4
+  Id: g=a6fb175272b57015d61ca1147770b6fa
+  Type: BaseDataVariableType
+  DataType: Boolean
