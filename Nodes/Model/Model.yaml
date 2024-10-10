@@ -1,2 +1,10 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=560a7b2ad2ae7b835acce3d79fd12d07
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Boolean

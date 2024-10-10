@@ -29,15 +29,19 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 1.0
+  8:
+   Uri: 'urn:FTOptix:WebUI'
+   Module: FTOptix.WebUI
+   Version: 1.1
  Statistics:
-  TotalNodeCount: 117
-  Objects: 66
-  ObjectTypes: 1
-  Variables: 50
+  TotalNodeCount: 553
+  Objects: 186
+  ObjectTypes: 5
+  Variables: 362
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
-  References: 0
+  References: 6
   ReferenceTypes: 0
   Files: 20
  Nodes:
