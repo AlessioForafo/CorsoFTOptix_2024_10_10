@@ -579,7 +579,6 @@ Children:
   - Name: Protocol
     Type: BaseDataVariableType
     DataType: Protocol
-    Value: 1
   - Name: IPAddress
     Type: BaseDataVariableType
     DataType: String
@@ -587,6 +586,7 @@ Children:
   - Name: Port
     Type: BaseDataVariableType
     DataType: UInt16
+    Value: 8080
   - Name: StartWindow
     Type: NodePointer
     DataType: NodeId

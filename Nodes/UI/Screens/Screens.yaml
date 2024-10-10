@@ -1108,12 +1108,12 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 340.0
+      Value: 360.0
     - Name: TopMargin
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 482.0
+      Value: 460.0
 - Name: Alarms
   Id: g=91a6cbfb6da61df97da59ba293dad70f
   Supertype: Screen
